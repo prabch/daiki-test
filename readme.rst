@@ -16,18 +16,18 @@ How to setup
 Default credentials
 **************************
 
-Username : admin
-Password : password
+| Username : admin
+| Password : password
 
 *******************
 Database Dump
 *******************
 
-Database dump is available in the root directory as requested (db_dump.sql)
+Database dump is available in the DB Script folder as requested (DB Script/db_dump.sql)
 
 ************
 Technologies used
 ************
 
-CodeIgniter V 3.1.11
-Materialize CSS V 1.0.0
+| CodeIgniter V 3.1.11
+| Materialize CSS V 1.0.0
